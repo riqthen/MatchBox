@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loading_animation.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_streaming_portrait.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\activity_streaming_portrait.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_hint.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\dialog_text_hint.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\text_list_item.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\text_list_item.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_text_hint_with_title.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\dialog_text_hint_with_title.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_streaming_landscape.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\activity_streaming_landscape.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_select_list.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\layout\\dialog_select_list.xml"
+    }
+]

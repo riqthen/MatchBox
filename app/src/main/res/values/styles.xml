@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">//主题改为NoActionBar
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="MainActivityStyle" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!--浮动，没有标题栏，默认有状态栏-->
+    <style name="CursorDialogThemeNotTitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 非浮动，有标题栏，没有状态栏-->
+    <style name="CursorDialogNotFloatTheme">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!--非浮动，有标题栏，有状态栏-->
+    <style name="CursorDialogFullTheme" parent="CursorDialogNotFloatTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!--非浮动，没有标题栏，有状态栏-->
+    <style name="CursorDialogNotFloatNotTitileTheme" parent="CursorDialogThemeNotTitle">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+    <!--非浮动，没有标题栏，没有状态栏，即闪屏页-->
+    <style name="CursorDialogNotTitleFullTheme" parent="CursorDialogNotFloatNotTitileTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slc_btn_start.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\slc_btn_start.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\radio.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_background.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\dialog_background.xml"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slc_list_item_color.xml",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\slc_list_item_color.xml"
+    }
+]

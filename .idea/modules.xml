@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MatchBox.iml" filepath="$PROJECT_DIR$/MatchBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduliveDemo/baiduliveDemo.iml" filepath="$PROJECT_DIR$/baiduliveDemo/baiduliveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeuilib/easeuilib.iml" filepath="$PROJECT_DIR$/easeuilib/easeuilib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liveplayer/liveplayer.iml" filepath="$PROJECT_DIR$/liveplayer/liveplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paydemo/paydemo.iml" filepath="$PROJECT_DIR$/paydemo/paydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pushdemo/pushdemo.iml" filepath="$PROJECT_DIR$/pushdemo/pushdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+    </modules>
+  </component>
+</project>

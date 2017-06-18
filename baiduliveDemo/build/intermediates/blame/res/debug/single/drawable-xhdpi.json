@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_rounded_box_selected.9.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\bg_rounded_box_selected.9.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_rounded_box_normal.9.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\bg_rounded_box_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_flash_on.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_flash_on.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_profile.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\bg_profile.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_login.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\bg_login.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_start_normal.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_start_normal.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ico_focus.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\ico_focus.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_effect_off.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_effect_off.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_backward.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_backward.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_switch_camera.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_switch_camera.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_effect_on.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_effect_on.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_flash_off.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_flash_off.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_block_streaming.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_block_streaming.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_start_streaming.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_start_streaming.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_input_url.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\bg_input_url.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_stop_streaming.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_stop_streaming.png"
+    },
+    {
+        "merged": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_start_pressed.png",
+        "source": "E:\\MyAndroid\\Project\\MyAppProject\\MatchBox\\baiduliveDemo\\src\\main\\res\\drawable-xhdpi\\btn_start_pressed.png"
+    }
+]
